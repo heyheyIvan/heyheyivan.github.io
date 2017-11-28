@@ -1,0 +1,132 @@
+@font-face {
+  font-family: 'Gabriele Dark Ribbon FG';
+  src: url(../fonts/gabriele.ttf);
+  font-weight: 500;
+  font-style: normal; }
+
+body {
+  padding: 0;
+  margin: 0; }
+
+html {
+  height: 100%; }
+
+pre code {
+  background-color: black;
+  border: none; }
+
+.site-name {
+  font-family: "Gabriele Dark Ribbon FG"; }
+
+.bar {
+  padding: 10px 0 10px 0;
+  background-color: black; }
+  .bar h1 {
+    margin: 0 0 0 50px;
+    padding: 0; }
+    .bar h1 a {
+      text-decoration: none !important;
+      color: white; }
+    .bar h1 a:hover {
+      color: gray; }
+
+.content {
+  padding: 15px 0 0 0; }
+
+.menu div {
+  margin: 0 0 0 50px; }
+
+.menu-item a {
+  font-family: "Gabriele Dark Ribbon FG";
+  font-size: 1.3em;
+  color: black;
+  text-decoration: none; }
+
+.menu-item a:hover {
+  color: gray; }
+
+.posts {
+  padding-left: 10px; }
+
+.post-item {
+  padding: 0;
+  margin-bottom: 30px; }
+
+.post-header {
+  margin: 0 0 20px 0; }
+
+.post-date {
+  color: gray;
+  font-size: 0.8em; }
+
+.post-title {
+  color: black;
+  text-decoration: none; }
+  .post-title h4 {
+    font-size: 1.9em;
+    font-weight: 600;
+    margin: 0;
+    padding: 0; }
+
+.post-summary {
+  color: #424242; }
+
+.pagination {
+  display: flex;
+  justify-content: space-between; }
+  .pagination a {
+    font-family: "Gabriele Dark Ribbon FG";
+    color: black;
+    text-decoration: none;
+    font-size: 1.2em; }
+
+.footer {
+  margin-top: 10px;
+  width: 100%;
+  height: 40px; }
+
+.single-title {
+  margin: 0px; }
+
+.single-header {
+  margin-bottom: 20px; }
+
+.project-card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 350px;
+  height: 300px;
+  margin: 10px 10px 10px 10px; }
+
+.project-image {
+  width: 100%;
+  height: 50%; }
+  .project-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; }
+
+.project-card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2); }
+
+.projects-row {
+  display: flex;
+  flex-wrap: wrap; }
+
+.project-title {
+  margin-top: -30px; }
+  .project-title a {
+    display: inline-block;
+    width: 100%;
+    height: 30px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.4); }
+
+.project-summary {
+  height: 100px;
+  padding: 15px;
+  padding-bottom: 20px;
+  overflow: hidden;
+  text-overflow: ellipsis; }

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ivan&#39;s site</title>
+    <link>http://ivanis.me/</link>
+    <description>Recent content on Ivan&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 22 Oct 2017 16:48:24 +0700</lastBuildDate>
+    
+	<atom:link href="http://ivanis.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Тестовый пост</title>
+      <link>http://ivanis.me/blog/russian-post/</link>
+      <pubDate>Sun, 22 Oct 2017 16:48:24 +0700</pubDate>
+      
+      <guid>http://ivanis.me/blog/russian-post/</guid>
+      <description>Если вы не изучали JavaScript с самого начала, то осваивать его современную версию сложно. Экосистема быстро растёт и меняется, так что трудно разобраться с проблемами, для решения которых придуманы разные инструменты. Я начал программировать в 1998-м, но начал понимать JavaScript только в 2014-м. Помню, как просматривал Browserify и смотрел на его слоган:
+class A { public static void main(String[] args) { System.out.println(&amp;#34;Hello, world&amp;#34;); } } </description>
+    </item>
+    
+  </channel>
+</rss>
