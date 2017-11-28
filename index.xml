@@ -6,10 +6,19 @@
     <description>Recent content on Ivan&#39;s site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 22 Oct 2017 16:48:24 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 16 Nov 2017 00:58:48 +0700</lastBuildDate>
     
 	<atom:link href="http://ivanis.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Example project</title>
+      <link>http://ivanis.me/projects/example/</link>
+      <pubDate>Thu, 16 Nov 2017 00:58:48 +0700</pubDate>
+      
+      <guid>http://ivanis.me/projects/example/</guid>
+      <description>Какой то текст</description>
+    </item>
     
     <item>
       <title>Тестовый пост</title>

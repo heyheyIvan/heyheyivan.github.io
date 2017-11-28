@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ivan&#39;s site</title>
+    <link>http://ivanis.me/projects/</link>
+    <description>Recent content in Projects on Ivan&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 16 Nov 2017 00:58:48 +0700</lastBuildDate>
+    
+	<atom:link href="http://ivanis.me/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Example project</title>
+      <link>http://ivanis.me/projects/example/</link>
+      <pubDate>Thu, 16 Nov 2017 00:58:48 +0700</pubDate>
+      
+      <guid>http://ivanis.me/projects/example/</guid>
+      <description>Какой то текст</description>
+    </item>
+    
+  </channel>
+</rss>
